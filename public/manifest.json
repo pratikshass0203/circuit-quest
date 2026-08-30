@@ -1,0 +1,13 @@
+{
+  "name": "CircuitQuest — Learn Digital Electronics",
+  "short_name": "CircuitQuest",
+  "description": "Gamified digital-electronics education with offline access for subscribers",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a1628",
+  "theme_color": "#00d4aa",
+  "orientation": "portrait-primary",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }],
+  "categories": ["education", "productivity"],
+  "screenshots": []
+}
